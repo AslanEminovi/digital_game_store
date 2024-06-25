@@ -119,3 +119,4 @@ CREATE TABLE purchased_items (
     FOREIGN KEY (game_id) REFERENCES games(id)
 );
 # digital_game_store
+# digital_game_store
